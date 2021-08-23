@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-quotemachine/static/css/main.c5ef71f1.chunk.css",
+    "main.js": "/fcc-quotemachine/static/js/main.f0a11985.chunk.js",
+    "main.js.map": "/fcc-quotemachine/static/js/main.f0a11985.chunk.js.map",
+    "runtime-main.js": "/fcc-quotemachine/static/js/runtime-main.7607cd13.js",
+    "runtime-main.js.map": "/fcc-quotemachine/static/js/runtime-main.7607cd13.js.map",
+    "static/js/2.30bb7671.chunk.js": "/fcc-quotemachine/static/js/2.30bb7671.chunk.js",
+    "static/js/2.30bb7671.chunk.js.map": "/fcc-quotemachine/static/js/2.30bb7671.chunk.js.map",
+    "static/js/3.01cd8cd8.chunk.js": "/fcc-quotemachine/static/js/3.01cd8cd8.chunk.js",
+    "static/js/3.01cd8cd8.chunk.js.map": "/fcc-quotemachine/static/js/3.01cd8cd8.chunk.js.map",
+    "index.html": "/fcc-quotemachine/index.html",
+    "static/css/main.c5ef71f1.chunk.css.map": "/fcc-quotemachine/static/css/main.c5ef71f1.chunk.css.map",
+    "static/js/2.30bb7671.chunk.js.LICENSE.txt": "/fcc-quotemachine/static/js/2.30bb7671.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7607cd13.js",
+    "static/js/2.30bb7671.chunk.js",
+    "static/css/main.c5ef71f1.chunk.css",
+    "static/js/main.f0a11985.chunk.js"
+  ]
+}
