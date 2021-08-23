@@ -1,0 +1,48 @@
+#quote-box {
+    background-color: rgb(255, 255, 255);
+    color: rgb(15, 15, 15);
+    border-radius: 7px;
+    position: relative;
+    width: 450px;
+    padding: 40px 50px;
+    display: table;
+}
+
+#author {
+    text-align: end;
+}
+
+#tweet-quote {
+    background-color: #1DA1F2;
+    float: left;
+    padding-left: 5%;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    -webkit-transition: box-shadow 0.5s 0s ease, all 0.5s 0s ease;
+    -moz-transition: box-shadow 0.5s 0s ease, all 0.5s 0s ease;
+    -o-transition: box-shadow 0.5s 0s ease, all 0.5s 0s ease;
+    transition: box-shadow 0.5s 0s ease, all 0.5s 0s ease;
+}
+
+#tweet-quote:hover {
+    background-color: #778994(245, 241, 235);
+}
+
+#new-quote {
+    background-color: wheat;
+    float: right;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    -webkit-transition: box-shadow 0.5s 0s ease, all 0.5s 0s ease;
+    -moz-transition: box-shadow 0.5s 0s ease, all 0.5s 0s ease;
+    -o-transition: box-shadow 0.5s 0s ease, all 0.5s 0s ease;
+    transition: box-shadow 0.5s 0s ease, all 0.5s 0s ease;
+}
+
+#new-quote:hover {
+    background-color: rgb(245, 241, 235);
+}
